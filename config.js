@@ -51,4 +51,5 @@ var config = {
         wish_message: "Happy Birthday",
         story: "THere are some memories",
     }
+    LoveText: "Dr.Wei made on 2024.9.13",
 };
