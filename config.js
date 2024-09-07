@@ -34,10 +34,11 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "Dear little cutie": "./imgs/xiaokeai.png",
-        "Beautiful":"./imgs/xiaokeai.png",
-        "Dignified":"./imgs/xiaokeai.png",
-        "something strang":"./imgs/xiaokeai.png",
+        "Dear little cutie": "./imgs/bixin.jpg",
+        "Beautiful":"./imgs/beautiful.jpg",
+        "Dignified":"./imgs/dignified.jpg",
+        "something strang":"./imgs/strang.jpg",
+        "The moon is very round":"/img/moon.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
