@@ -15,7 +15,7 @@ var config = {
         "Beautiful",
         "Dignified",
         "And....emmm",
-        "Something strang",
+        "Something strange",
         "But they are all the looks I like",
         "YAMI~~",
         "Happy Birthday!",
@@ -37,7 +37,7 @@ var config = {
         "Dear little cutie": "./imgs/xiaokeai.png",
         "Beautiful":"./imgs/xiaokeai.png",
         "Dignified":"./imgs/xiaokeai.png",
-        "something strang":"./imgs/xiaokeai.png",
+        "Something strang":"./imgs/xiaokeai.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
